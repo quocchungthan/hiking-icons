@@ -1,5 +1,7 @@
 # Hiking Icons
 
+Demo = https://quocchungthan.github.io/hiking-icons/
+
 A set of **94 SVG icons** for hiking and outdoor apps. Each icon comes in two versions:
 
 - **No background**: a single-color glyph that uses `currentColor`.
