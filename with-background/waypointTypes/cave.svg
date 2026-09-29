@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" class="icon-with-bg">
+  <circle class="icon-bg" cx="12" cy="12" r="11" fill="var(--icon-bg, currentColor)"/>
+  <g class="icon-glyph" fill="var(--icon-fg, #ffffff)" transform="translate(3.6, 3.6) scale(0.7)">
+    <g><path d="M3 19h18c-1-8-6-13-9-13s-8 5-9 13z"/><ellipse cx="12" cy="15" rx="4" ry="4" fill="#1b2311"/></g>
+  </g>
+</svg>

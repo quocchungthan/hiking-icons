@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" class="icon-with-bg">
+  <circle class="icon-bg" cx="12" cy="12" r="11" fill="var(--icon-bg, currentColor)"/>
+  <g class="icon-glyph" fill="var(--icon-fg, #ffffff)" transform="translate(3.6, 3.6) scale(0.7)">
+    <path d="M7.41 18.41L12 13.83l4.59 4.58L18 17l-6-6-6 6z M7.41 12.41L12 7.83l4.59 4.58L18 11l-6-6-6 6z"/>
+  </g>
+</svg>
