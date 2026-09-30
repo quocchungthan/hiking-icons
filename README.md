@@ -58,6 +58,15 @@ Toggle **🌓 Dark Mode** to preview icons on dark surfaces. Click any icon card
 
 ![Dark mode](docs/screenshots/07-dark-mode.png)
 
+## Editing SVGs
+
+You can use these browser-based tools to edit the SVG files:
+
+- [SVGViewer](https://svgviewer.dev) edits complete SVG files. Open the site and upload or drag in a file from `no-background/` or `with-background/`. After editing, download the SVG and replace the original file in this repository.
+- [SVG Path Editor](https://yqnn.github.io/svg-path-editor) edits SVG path data (`d`), not complete SVG files. Copy a path's `d` value into the editor, then copy the edited path data back into the original SVG.
+
+Neither tool is documented to open one of this repository's files directly from a URL or save edits back into the repository. After replacing an SVG with the downloaded or edited file, review and commit the change as usual. A Git submodule would include the editor's source, but would not connect it to these SVG files or provide that save-back workflow.
+
 ## Usage
 
 ### Inline / file SVG (no background)
